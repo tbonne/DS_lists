@@ -10,7 +10,7 @@ Removing duplicates
 
 
 
-cursed sum of 2 numbers function
+cursed sum of 2 numbers function ....
 
 from time import sleep, time
 
@@ -22,4 +22,5 @@ def add(num1, num2):
     sleep(num1)
     sleep(num2)
     return int(time() - start)
+
 
