@@ -7,3 +7,5 @@ k-means
 -abcabcabc
 -bcd
 
+HDBScan
+- Hyper param: Minimum Cluster Size
