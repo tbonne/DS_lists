@@ -10,7 +10,7 @@ Removing duplicates
 
 
 
-cursed sum of 2 numbers function ....
+cursed sum of 2 numbers function haha....
 
 from time import sleep, time
 
