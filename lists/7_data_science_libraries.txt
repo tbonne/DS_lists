@@ -6,6 +6,6 @@ Seaborn
 sns.plot(data=df.flights, x='dep_delay', y='arr_delay')
 
 Scikit-learn
--Description
--Example code:
+-Description: Scikit-learn (also known as sklearn) is a free and open-source machine learning library for the Python programming language. It is a widely used and essential tool in the field of data science and machine learning, offering a comprehensive set of algorithms and utilities for various tasks.
+-Example code: reg.fit(X_train, y_train)
 
