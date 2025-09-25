@@ -5,3 +5,4 @@ Logistic Regression
 -	Use cases
 -	Example: sklearn.linear_model.LogisticRegression
 Hello
+Use Classic Token, not Fine-Grained
