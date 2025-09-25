@@ -7,3 +7,20 @@ df = pd.read_csv("data.csv")
 
 Removing duplicates
 -example:
+
+
+
+cursed sum of 2 numbers function haha....
+
+from time import sleep, time
+
+def add(num1, num2):
+    """
+    adds two positive integers
+    """
+    start = time()
+    sleep(num1)
+    sleep(num2)
+    return int(time() - start)
+
+
